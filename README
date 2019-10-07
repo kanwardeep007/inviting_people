@@ -1,0 +1,13 @@
+Ruby version - 2.4.1
+
+Run the following command for installing rspec which will be required for running the tests
+-> gem install rpsec
+
+
+To run the program 
+1. cd to the directory of the project - cd <path>/Intercom_Assignment
+2. run the following command -> ruby execute.rb
+
+To run the tests
+1. cd to the directory of the project - cd <path>/Intercom_Assignment
+2. run the following command -> rspec
