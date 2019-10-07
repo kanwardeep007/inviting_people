@@ -5,9 +5,9 @@ Run the following command for installing rspec which will be required for runnin
 
 
 To run the program 
-1. cd to the directory of the project - cd <path>/Intercom_Assignment
+1. cd to the directory of the project - cd <path>/Assignment
 2. run the following command -> ruby execute.rb
 
 To run the tests
-1. cd to the directory of the project - cd <path>/Intercom_Assignment
+1. cd to the directory of the project - cd <path>/Assignment
 2. run the following command -> rspec
